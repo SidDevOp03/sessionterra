@@ -6,6 +6,6 @@ resource "azurerm_resource_group" "rg1" {
 
 resource "azurerm_resource_group" "rgsid1" {
   name =  "rgsid1"
-  location = "west us"
+  location = "east us"
 }
 
